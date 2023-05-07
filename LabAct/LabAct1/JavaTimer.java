@@ -19,7 +19,6 @@ public class JavaTimer extends Main {
         jframe.add(LabelTime);
         jframe.setVisible(true);
         
-        JavaTimer lt = new JavaTimer();
         
         try{
             
